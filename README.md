@@ -7,15 +7,14 @@ Repositório para amarzenar resumos sobre Git e GitHub do curso Versionamento ed
  - [Documentação Git] (https://git-scm.com/doc)
  - [Documentação GitHub] (https://docs.gitub.com/)
 
- ##💻 Resumos das Aulas
+ ## 💻 Resumos das Aulas
 
  | Aulas | Resumos |
  |-------|---------|
- | Gravando alteraões no Repositório Local | [Resumos] |
- () |
+ | Gravando alteraões no Repositório Local | [Resumo]() |
  ```
  git Innovation
  ````
 
- ##🔍 Referências
- - [Digital Innovation One] ().
+ ## 🔍 Referências
+ - [Digital Innovation One]().
