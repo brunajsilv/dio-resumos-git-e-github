@@ -11,7 +11,8 @@ Repositório para amarzenar resumos sobre Git e GitHub do curso Versionamento ed
 
  | Aulas | Resumos |
  |-------|---------|
- | Gravando alteraões no Repositório Local | [Resumo]() |
+ | Aula 01 | [Resumo]() |
+ | Aula 02 | [Resumo]() |
  ```
  git Innovation
  ````
